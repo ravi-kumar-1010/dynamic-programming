@@ -1,2 +1,2 @@
 "# dynamic-programming" 
-Some common Dynamic Programmin Problems
+Some common Dynamic Programming Problems
